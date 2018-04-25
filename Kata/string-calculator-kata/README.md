@@ -1,4 +1,4 @@
-* Credit to @jarlehansen for creating this exercise.
+* Exercise taken from: https://github.com/jarlehansen/string-calculator-kata
 
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first.
